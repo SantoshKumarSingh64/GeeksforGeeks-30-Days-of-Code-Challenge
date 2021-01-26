@@ -25,6 +25,7 @@ You dont need to read input or print anything. Complete the function prank() whi
 Expected Time Complexity: O(N)<br>
 Expected Auxiliary Space: O(1)<br>
 <br>
+<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ N ≤ 10^5<br>
 &emsp;&emsp;0 ≤ a[i] ≤ N-1<br>
