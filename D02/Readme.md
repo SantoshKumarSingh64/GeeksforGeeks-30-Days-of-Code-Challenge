@@ -19,7 +19,6 @@ Expected Time Complexity: O(logN)<br>
 Expected Auxiliary Space: O(1)<br>
 <br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ N ≤ 10^12<br>
 <br></p>
