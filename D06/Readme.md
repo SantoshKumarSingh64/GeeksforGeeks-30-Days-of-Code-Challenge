@@ -12,7 +12,7 @@ Example 1:<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;{5, 5, 5, 5, 5}<br>
 &emsp;&emsp;Output: 48<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;{8, 6, 7}<br>
-&emsp;&emsp;Explanation:   {4, 4, 4}    has the maximum sum 48.<br>
+&emsp;&emsp;Explanation:&emsp;{4, 4, 4}&emsp;&emsp;has the maximum sum 48.<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;{5, 5, 5} <br>
 <br>
 Example 2:<br>
@@ -25,7 +25,6 @@ You don't need to read input or print anything. Complete the function Maximum_Su
 <br>
 Expected Time Complexity: O(N^2)<br>
 Expected Auxiliary Space: O(N^2)<br>
-<br>
 <br>
 <br>
 Constraints:<br>
