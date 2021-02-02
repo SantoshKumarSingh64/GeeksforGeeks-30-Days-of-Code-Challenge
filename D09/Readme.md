@@ -28,8 +28,6 @@ You don't need to read input or print anything. Complete the function transfigur
 Expected Time Complexity: O(max(|A|, |B|))<br>
 Expected Auxiliary Space: O(1)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ |A|, |B| ≤ 10^5<br>
 &emsp;&emsp;A and B consists of lowercase and uppercase letters of english alphabet only.<br>
