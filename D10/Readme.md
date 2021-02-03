@@ -18,8 +18,6 @@ You don't need to read input or print anything. Complete the function repeatedSt
 Expected Time Complexity: O(|A| * |B|)<br>
 Expected Auxiliary Space: O(1)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ |A|, |B| ≤ 10^3<br>
 <br></p>
