@@ -21,7 +21,6 @@ You don't need to read input or print anything. Complete the function secretCiph
 Expected Time Complexity: O(N)<br>
 Expected Auxiliary Space: O(N)<br>
 <br>
-<br>
 Constraints:<br> 
 &emsp;&emsp;1 ≤ |S| ≤ 10^5<br>
 <br></p>
