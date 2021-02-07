@@ -18,8 +18,6 @@ You don't need to read input or print anything. Complete the function sumBitDiff
 Expected Time Complexity: O(NlogN)<br>
 Expected Auxiliary Space: O(1)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ N ≤ 10^5<br>
 &emsp;&emsp;1 ≤ arr[i] ≤ 10^8<br>
