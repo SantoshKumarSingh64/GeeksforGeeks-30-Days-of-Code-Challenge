@@ -19,7 +19,6 @@ You don't need to read input or print anything. Complete the function Reduced_St
 Expected Time Complexity: O(|S|)<br>
 Expected Auxiliary Space: O(|S|)<br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ |S| ≤ 10^5<br>
 &emsp;&emsp;1 ≤ K ≤ |S|<br>
