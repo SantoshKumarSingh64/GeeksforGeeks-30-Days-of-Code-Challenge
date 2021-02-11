@@ -26,8 +26,6 @@ You don't need to read input or print anything. Complete the function help_class
 Expected Time Complexity: O(N)<br>
 Expected Auxiliary Space: O(N)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ N ≤ 10^6<br>
 <br></p>
