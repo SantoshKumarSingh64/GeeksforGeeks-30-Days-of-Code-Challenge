@@ -16,13 +16,11 @@ Example 2:<br>
 Your Task:<br>
 You don't need to read input or print anything. Complete the function recreationalSpot() which takes the array arr[] and its size N as input parameters and returns a boolean value based on whether his building selection was successful or not.<br>
 <br>
-Note: The generated output will be "True" or "False".<br>
-<br>
+Note:<br> 
+The generated output will be "True" or "False".<br>
 <br>
 Expected Time Complexity: O(N)<br>
 Expected Auxiliary Space: O(N)<br>
-<br>
-<br>
 <br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ N ≤ 10^4<br>
