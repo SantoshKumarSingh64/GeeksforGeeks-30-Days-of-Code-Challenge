@@ -40,8 +40,6 @@ You don't need to read input or print anything. Complete the function sum_at_dis
 Expected Time Complexity: O(N)<br>
 Expected Auxiliary Space: O(N)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ N, Node Value ≤ 10^5<br>
 &emsp;&emsp;1 ≤ K ≤ 20<br>
