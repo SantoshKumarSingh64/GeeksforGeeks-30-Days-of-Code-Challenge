@@ -32,8 +32,6 @@ You don't need to read input or print anything. Complete the function candies() 
 Expected Time Complexity: O(N)<br>
 Expected Auxiliary Space: O(N)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ M, N ≤ 500<br>
 <br></p>
