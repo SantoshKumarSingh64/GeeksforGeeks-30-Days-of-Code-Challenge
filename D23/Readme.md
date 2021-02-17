@@ -18,8 +18,6 @@ You don't need to read input or print anything. Complete the function  Kclosest(
 Expected Time Complexity: O(NlogN)<br>
 Expected Auxiliary Space: O(N)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ K ≤ N ≤ 10^5<br> 
 &emsp;&emsp;-10^4 ≤ X, arr[i] ≤ 10^4<br>
