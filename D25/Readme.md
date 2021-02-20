@@ -25,8 +25,6 @@ You don't need to read input or print anything. Complete the function findDistan
 Expected Time Complexity: O(M*N)<br>
 Expected Auxiliary Space: O(M*N)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ N*M ≤ 10^6<br>
 <br></p>
