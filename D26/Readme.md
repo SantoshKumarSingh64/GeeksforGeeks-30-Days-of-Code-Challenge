@@ -3,6 +3,7 @@
 An IT company is working on a large project. The project is broken into N modules and distributed to different teams. The amount of time (in months) required to complete each module is given in an array duration[ ]. Two modules can be processed simultaneously only if their is no dependency between them and it is given that M modules have interdependecies. 
 As the project manager, compute the minimum time required to complete the project.<br>
 <br>
+<br>
 Example 1:<br>
 &emsp;&emsp;Input: N = 6 6<br>
 &emsp;&emsp;duration[] = {1, 2, 3, 1, 3, 2}<br>
@@ -30,13 +31,12 @@ Example 2:<br>
 &emsp;&emsp;Output: -1<br>
 &emsp;&emsp;Explanation: There is a cycle in the dependency graph hence the project cannot be completed.<br>
 <br>
+<br>
 Your Task:<br>
 Complete the function minTime() which takes N, M, duration array, and dependencies array as input parameter and return the minimum time required. Return -1 if the project can not be completed. <br>
 <br>
 Expected Time Complexity: O(N)<br>
 Expected Auxiliary Space: O(N)<br>
-<br>
-<br>
 <br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ N ≤ 10^5<br>
