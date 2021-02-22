@@ -23,8 +23,6 @@ You dont need to read input or print anything. Complete the function catchThieve
 Expected Time Complexity: O(N)<br>
 Expected Auxiliary Space: O(N)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ n ≤ 10^5<br>
 &emsp;&emsp;1 ≤ k ≤ 100<br>
