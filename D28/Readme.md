@@ -26,8 +26,6 @@ Your task is to complete the function min_sprinklers() which takes the array gal
 Expected Time Complexity: O(NlogN)<br>
 Expected Auxiliary Space: O(N)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ n ≤ 10^5<br>
 &emsp;&emsp;gallery[i] ≤ 50<br>
