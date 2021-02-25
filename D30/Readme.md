@@ -23,8 +23,6 @@ You don't need to read input or print anything. Complete the function build_brid
 Expected Time Complexity: O(N*M)<br>
 Expected Auxiliary Space: O(N*M)<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;1 ≤ N, M ≤ 100<br>
 &emsp;&emsp;&emsp;&emsp;Where, N and M are the size of the string str1 and str2 respectively.<br>
